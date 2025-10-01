@@ -1,7 +1,7 @@
 # Ligament Analysis
 
-This Python script implements a comprehensive **droplet tracking system** for analyzing microscopy image sequences.  
-The system detects, tracks, and analyzes droplet behavior — including **fusion** and **breakup events** — across multiple frames using advanced computer vision techniques.
+This Python script features a detailed **droplet tracking system** designed for examining sequences of microscopy images.
+The system identifies, monitors, and assesses droplet activity — encompassing **fusion** and **breakup events** — across various frames utilizing sophisticated computer vision methods.
 
 ---
 
